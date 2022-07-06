@@ -1,7 +1,7 @@
-# Debit amount exceeded account balance
-" Modify class Account to provide a method called debit that withdraws money
-from an Account. Ensure that the debit amount does not exceed the Account’s
-balance. If it does, the balance should be left unchanged and the method
-should print a message indicating ―Debit amount exceeded account balance.
-Modify class AccountTest to test method debit."
+# Write a Program DeckOfCards.java
+" Write a Program DeckOfCards.java, to initialize deck of cards having suit
+("Clubs", "Diamonds", "Hearts", "Spades") & Rank ("2", "3", "4", "5", "6", "7", "8",
+"9", "10", "Jack", "Queen", "King", "Ace"). Shuffle the cards using Random
+method and then distribute 9 Cards to 4 Players and Print the Cards received by
+the 4 Players using 2D Array..."
 
